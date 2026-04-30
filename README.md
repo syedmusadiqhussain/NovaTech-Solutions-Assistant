@@ -11,14 +11,9 @@ NovaTech Solutions Assistant is a production-grade AI assistant built with a Ret
 - Markdown rendering in AI responses (lists, bold, code blocks + syntax highlighting)
 
 ## Project Preview
-Add these screenshots to the repository root to display them in GitHub:
-- `image_0f0599.jpg`
-- `image_0f02d5.jpg`
+Run `python capture_ui.py` to generate an up-to-date screenshot of the dashboard.
 
-Then they will show here:
-
-![Dashboard Preview 1](image_0f0599.jpg)
-![Dashboard Preview 2](image_0f02d5.jpg)
+![Project UI Preview](./ui_screenshot.jpg)
 
 ## Tech Stack
 - FastAPI + Uvicorn

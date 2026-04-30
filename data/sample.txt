@@ -1,0 +1,49 @@
+NovaTech Solutions — Company Knowledge Base (Fictional)
+
+About NovaTech Solutions
+NovaTech Solutions is a fictional technology company that provides cloud software, automation tools, and managed IT services for small and mid-sized businesses. The company focuses on practical, secure solutions that reduce operational overhead and help teams move faster without sacrificing reliability. NovaTech operates primarily in North America and Europe, with remote onboarding available worldwide.
+
+Products
+1) NovaDesk (Customer Support Suite)
+NovaDesk is a helpdesk platform that combines ticketing, email support, and a lightweight live chat widget. It includes an internal knowledge base, team assignments, SLA tracking, and basic analytics. NovaDesk integrates with popular tools such as Slack and Microsoft Teams and supports single sign-on (SSO) for business plans and above.
+
+2) NovaOps (Workflow Automation)
+NovaOps is an automation toolkit for repeatable business processes. Customers use it to automate employee onboarding, approvals, invoice routing, and simple data syncs between systems. NovaOps provides a visual workflow builder and also supports webhooks for custom integrations. It is designed for non-technical users but includes developer options for advanced rules and scripting.
+
+3) NovaGuard (Security & Compliance Monitoring)
+NovaGuard is a monitoring service that helps organizations track device health, basic vulnerability signals, and security configuration drift. NovaGuard includes weekly reports, alerting for suspicious sign-ins, and policy checks aligned with common best practices. NovaGuard does not replace a full SIEM; it is positioned as an affordable “security baseline” layer for growing companies.
+
+Pricing
+NovaTech Solutions offers three subscription tiers for each product. Pricing is billed monthly or annually (annual billing includes a discount).
+
+Starter Tier:
+- $29 per user per month
+- Includes core features for small teams
+- Email support
+
+Business Tier:
+- $59 per user per month
+- Adds SSO, advanced reporting, and higher automation limits (for NovaOps)
+- Priority email support
+
+Enterprise Tier:
+- Custom pricing (contact sales)
+- Includes dedicated onboarding, custom security reviews, and optional on-prem connectivity
+- 24/7 incident response add-on is available for NovaGuard customers on Enterprise
+
+All tiers include access to the online documentation portal and product updates. Free trials are available for 14 days for NovaDesk and NovaOps. NovaGuard trials are available on request due to onboarding requirements.
+
+Support Hours
+NovaTech Solutions provides standard support Monday through Friday, 9:00 AM to 6:00 PM Eastern Time (ET), excluding major US holidays. During standard support hours, customers can contact support via email or the NovaDesk web portal. Business-tier customers receive priority handling, which generally means faster first response times during business hours. Enterprise customers may also purchase a 24/7 incident response add-on specifically for NovaGuard.
+
+Refund Policy
+NovaTech Solutions offers a 30-day refund policy for first-time customers on monthly plans. If you are within the first 30 days of your initial purchase and you are not satisfied, you may request a refund for the most recent monthly charge. Annual plans are generally non-refundable after the first 30 days, but NovaTech may issue prorated refunds at its discretion in special circumstances (for example, duplicate charges or billing errors). Refund requests must be submitted through the support portal or by emailing the billing team.
+
+Contact Information
+Sales inquiries: sales@novatech-solutions.example
+Support email: support@novatech-solutions.example
+Billing email: billing@novatech-solutions.example
+Phone: +1 (555) 013-2040
+Website: https://novatech-solutions.example
+
+For account verification, NovaTech may ask for your company name, the billing email on file, and the last four digits of the payment method used. NovaTech Solutions never requests full credit card details over email.
